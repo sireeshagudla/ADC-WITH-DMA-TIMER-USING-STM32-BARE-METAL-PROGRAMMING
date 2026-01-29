@@ -1,19 +1,4 @@
-Conversation opened. 1 unread message.
 
-Skip to content
-Using Gmail with screen readers
-1 of 3,167
-adc with bare metal
-Inbox
-
-sivaprasad nakka <sivaprasadnakka838@gmail.com>
-Attachments
-9:13 PM (0 minutes ago)
-to me
-
-
- One attachment
-  •  Scanned by Gmail
 #include "stm32f446xx.h"
 #include <stdio.h>
 
